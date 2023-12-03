@@ -19,7 +19,7 @@ h4 {
 }
 
 .lognav {
-  width: 40px;
+  width: 25px;
 }
 
 #home {
@@ -54,7 +54,7 @@ h4 {
   background: #0e0e0e;
   color: #ffe500;
   border-radius: 7px;
-  padding: 1.5% 0%;
+  padding: 2% 0% 1% 0%;
 }
 .tarea {
   background: #3b3b3b;
