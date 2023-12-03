@@ -1,2 +1,2 @@
 # Portfolio
-An early look for my own portfolio website
+An early look of my own portfolio website
