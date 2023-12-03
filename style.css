@@ -1,0 +1,156 @@
+/* Font */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Poppins&display=swap");
+
+p,
+a {
+  font-family: "Inter", sans-serif;  
+}
+
+a {
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Poppins", sans-serif;
+  text-decoration: none;
+}
+
+.lognav {
+  width: 40px;
+}
+
+#home {
+  padding-top: 10rem;
+  padding-bottom: -2rem;
+  background-image: url(img/Divider/bgradient.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.logain {
+  width: 20%;
+}
+.textmain {
+  margin-top: 5%;
+  text-align: center;
+}
+
+.secolor {
+  background: #171717;
+}
+.secwarp {
+  padding-top: 15rem;
+  padding-bottom: 13rem;
+}
+.secwarp2 {
+    padding-top: 7rem;
+    padding-bottom: 2rem;
+  }
+
+.thead {
+  text-align: center;
+  background: #0e0e0e;
+  color: #ffe500;
+  border-radius: 7px;
+  padding: 1.5% 0%;
+}
+.tarea {
+  background: #3b3b3b;
+  padding: 25px;
+  border-radius: 7px;
+  text-align: justify;
+}
+.contsize {
+  height: 100%;
+}
+
+.parallax {
+  background-image: url(img/Divider/bgradient.svg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.imgarea {
+  background: #3b3b3b;
+  border-radius: 7px;
+  height: 250px;
+  background-image: url(img/Projects/unknown.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition-duration: 0.3s;
+}
+.imgarea:hover {
+  transform: scale(1.06, 1.06);
+}
+
+.buttons {
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  width: 100%;
+}
+.bhvr {
+  background-color: #030303;
+  color: #ffe500;
+  border: 2px solid #ffe500;
+  border-radius: 7px;
+}
+.bhvr:hover {
+  background-color: #ffe500;
+  color: black;
+}
+
+.sdtxt {
+  text-align: justify;
+  background: #3b3b3b;
+  padding: 15px;
+  border-radius: 7px;
+}
+
+.icosm {
+  color: #030303;
+}
+.icosm:hover {
+  color: #ffe500;
+}
+.listyle{
+  display: block;
+  list-style-type: none;
+}
+li {
+  text-decoration: none;
+  padding-right: 20px;
+  float: left;
+}
+.box {
+  width: 32px;
+  height: 32px;
+  border-radius: 6px;
+  background-color: white;
+  scale: 125%;
+}
+.box:hover {
+  width: 32px;
+  height: 32px;
+  border-radius: 6px;
+  background-color: #030303;  
+  scale: 125%;
+}
+
+.foocol {
+  background: #171717;
+}
+.warpter {
+  padding: 5px;
+  text-align: center;
+  color: white;
+}
